@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+</head>
+<link rel="stylesheet" href="/assets/css/reset.css">
+<link rel="stylesheet" href="/assets/css/index.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="module" src="/assets/js/index.js" ></script>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>Weather App</h1>
+        </header>
+        <main>
+            <div id="search-container">
+                <form id="weather-form" action="#">
+                    <input id="search-input" type="text" placeholder="Enter city name" name="search">
+                    <button id="search-button" type="submit"><i class="fa fa-search"></i> Search</button>
+                </form>
+                <button id="location-button"><i class="fa fa-location-arrow"></i> Get location</button>
+
+                <div id="dropdown">
+                    <ul id="dropdown-list">
+
+                    </ul>
+                </div>
+            </div>
+
+            <div id="weather-widget">
+                <!-- Weather data will be displayed here -->
+            </div>
+        </main>
+
+    </div>
+</body>
+
+</html>

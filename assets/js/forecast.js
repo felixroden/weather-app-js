@@ -1,0 +1,5 @@
+class forecast {
+  constructor(forecast) {
+
+  }
+}
