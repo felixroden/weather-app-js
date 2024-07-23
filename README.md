@@ -27,54 +27,17 @@ To get a local copy up and running, follow these simple steps:
 ### Installation
 
 1. **Clone the repository**:
-    
-    sh
-    
-    Copy code
-    
     `git clone https://github.com/your-username/weather-widget.git`
-    
 2. **Navigate to the project directory**:
-    
-    sh
-    
-    Copy code
-    
     `cd weather-widget`
-    
 3. **Install the necessary dependencies**:
-    
-    sh
-    
-    Copy code
-    
     `npm install`
-    
 4. **Create a `.env` file in the root of your project and add your OpenWeatherMap API key**:
-    
-    env
-    
-    Copy code
-    
     `API_KEY=your_api_key_here`
-    
 5. **Start the server**:
-    
-    sh
-    
-    Copy code
-    
     `node server.js`
-    
 6. **Open your browser and navigate to**:
-    
-    arduino
-    
-    Copy code
-    
     `http://localhost:3000`
-    
-
 ## Usage
 
 ### Search by City Name
