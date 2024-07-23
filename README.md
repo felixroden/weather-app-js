@@ -1,6 +1,6 @@
 # Weather App
 
-This project is a simple yet powerful weather app that fetches and displays the current weather for a specified city or the user's current location. It leverages the OpenWeatherMap API to provide accurate and up-to-date weather data in a user-friendly interface.
+This project is a simple weather app that fetches and displays the current weather for a specified city or the user's current location. It leverages the OpenWeatherMap API to provide accurate and up-to-date weather data in a user-friendly interface.
 
 ## Features
 
@@ -28,12 +28,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository**:
 
-   `git clone https://github.com/your-username/weather-widget.git`
+   `git clone https://github.com/your-username/weather-app-js.git`
    
 3. **Navigate to the project directory**:
 
-   `cd weather-widget
-   `
+   `cd weather-app-js`
+   
 5. **Install the necessary dependencies**:
 
    `npm install`
