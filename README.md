@@ -35,7 +35,8 @@ To get a local copy up and running, follow these simple steps:
    `cd weather-widget
    `
 5. **Install the necessary dependencies**:
-    `npm install`
+
+   `npm install`
    
 7. **Create a `.env` file in the root of your project and add your OpenWeatherMap API key**:
 
