@@ -27,17 +27,28 @@ To get a local copy up and running, follow these simple steps:
 ### Installation
 
 1. **Clone the repository**:
-    `git clone https://github.com/your-username/weather-widget.git`
-2. **Navigate to the project directory**:
-    `cd weather-widget`
-3. **Install the necessary dependencies**:
+
+   `git clone https://github.com/your-username/weather-widget.git`
+   
+3. **Navigate to the project directory**:
+
+   `cd weather-widget
+   `
+5. **Install the necessary dependencies**:
     `npm install`
-4. **Create a `.env` file in the root of your project and add your OpenWeatherMap API key**:
+   
+7. **Create a `.env` file in the root of your project and add your OpenWeatherMap API key**:
+
     `API_KEY=your_api_key_here`
-5. **Start the server**:
+   
+9. **Start the server**:
+
     `node server.js`
-6. **Open your browser and navigate to**:
+    
+12. **Open your browser and navigate to**:
+
     `http://localhost:3000`
+    
 ## Usage
 
 ### Search by City Name
