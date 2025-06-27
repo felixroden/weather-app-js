@@ -1,18 +1,18 @@
 # Weather App
 
-This project is a simple weather app that fetches and displays the current weather for a specified city or the user's current location. It leverages the OpenWeatherMap API to provide accurate and up-to-date weather data in a user-friendly interface.
+This project is a simple weather app that fetches and displays the current weather for a specified city or the user's current location. It leverages the OpenWeatherMap API to provide accurate and up-to-date weather data.
 
 ## Features
 
 - **Search by City Name**: Fetch and display the current weather for any specified city.
 - **Geolocation-Based Weather**: Get the current weather for the user's current location using geolocation.
-- **Detailed Weather Information**: Display essential weather information including temperature, weather description, and a weather icon.
+- **Detailed Weather Information**: Display weather information including temperature, weather description, and a weather icon.
 
-## Technologies Used
+## Built using
 
 - **HTML**: For structuring the web page.
 - **CSS**: For styling the web page.
-- **JavaScript**: For making API requests and dynamically updating the UI.
+- **JavaScript**: For making API requests and updating the UI.
 - **OpenWeatherMap API**: For fetching weather data.
 
 ## Getting Started
@@ -68,5 +68,3 @@ To get a local copy up and running, follow these simple steps:
 
 - Ensure your API key from OpenWeatherMap is valid and correctly set in the `.env` file.
 - Make sure your browser allows location access for the geolocation feature to work properly.
-
-Enjoy your weather app!
