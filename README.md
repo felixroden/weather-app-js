@@ -2,6 +2,8 @@
 
 This project is a simple weather app that fetches and displays the current weather for a specified city or the user's current location. It leverages the OpenWeatherMap API to provide accurate and up-to-date weather data.
 
+**Demo**: https://weather-quiet-log-5238.fly.dev/
+
 ## Features
 
 - **Search by City Name**: Fetch and display the current weather for any specified city.
